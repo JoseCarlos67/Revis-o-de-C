@@ -1,6 +1,6 @@
 # 📘 Lista de Exercícios IV – Vetor e Matriz
 
-![C](https://img.shields.io/badge/C-17-blue?logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-language-blue?logo=c&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Não%20Concluído-yellow)
 ![IDE](https://img.shields.io/badge/IDE-VS%20Code-0078d7?logo=visual-studio-code)
 
